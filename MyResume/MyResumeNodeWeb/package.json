@@ -1,0 +1,9 @@
+{
+  "name": "my-resume-node-web",
+  "version": "0.0.0",
+  "description": "MyResumeNodeWeb",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
